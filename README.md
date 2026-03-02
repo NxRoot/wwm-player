@@ -1,4 +1,4 @@
-# Where Winds Meet Player
+# Where Winds Meet - Keystroke Player
 Simple keystroke emulation player for Where Winds Meet
 
 
