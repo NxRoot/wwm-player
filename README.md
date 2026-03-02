@@ -1,6 +1,6 @@
 # Where Winds Meet - Keystroke Player
-Simple keystroke sequece player for Where Winds Meet.
-<p>This software reads multiple txt files with keystroke sequences in order to replay later</p>
+Direct Input sequence player for Where Winds Meet.
+<p>This software reads multiple txt files with keystroke sequences in order to replay later.</p>
 
 > ⚠️ **WARNING: Use at Your Own Risk**
 > I'm not sure if you get banned since I haven't been until now.
