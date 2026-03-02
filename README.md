@@ -32,7 +32,10 @@ https://github.com/user-attachments/assets/f15f27c5-8565-43d1-8cd5-73f351e13a28
 | <a href="https://github.com/NxRoot/wwm-player/releases/download/Release/wwm-player-win-x64.zip"><img style="min-width: 40px;min-height: 40px; width: 40px;" src="https://github.com/user-attachments/assets/ed7521ce-2e8d-4b88-afd6-e292e82b8526"/></a> | wwm-player | [Download](https://github.com/NxRoot/wwm-player/releases/download/Release/wwm-player-win-x64.zip)    |
 
 # Song File Format
-Synthax `time_before_trigger` , `key_to_be_triggered`
+You can create your own songs just by writting a simple txt file with multiple key sequences.
+
+### Synthax
+`time_before_trigger` , `key_to_be_triggered`
 ```
 time,key
 ```
