@@ -1,8 +1,12 @@
 # Where Winds Meet - Keystroke Player
-Simple keystroke emulation player for Where Winds Meet
+Simple keystroke emulation player for Where Winds Meet.
+
+> ⚠️ **WARNING: Use at Your Own Risk**
+> I'm unsure if you can get banned, since I haven't been until now.
 
 
 https://github.com/user-attachments/assets/f15f27c5-8565-43d1-8cd5-73f351e13a28
+
 
 | 21 Keys | 36 Keys |
 |---|---|
@@ -41,6 +45,8 @@ Example (36 Keys)
 500,SHIFT+b
 500,CTRL+m
 ```
+
+
 
 ## &nbsp;
 ⭐ If you find this useful!
