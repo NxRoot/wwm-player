@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/f15f27c5-8565-43d1-8cd5-73f351e13a28
 
 
 # Features
-
+* 🎵 &nbsp;Full playlist management.
 * 💯 &nbsp;Emulate keystroke sequences.
 * 🧬 &nbsp;Support for any game instrument.
 * ✍️ &nbsp;Create your songs with a simple synthax.
