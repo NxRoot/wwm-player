@@ -21,8 +21,8 @@ https://github.com/user-attachments/assets/f15f27c5-8565-43d1-8cd5-73f351e13a28
 * 💯 &nbsp;Emulate keystroke sequences.
 * 🧬 &nbsp;Support for any game instrument.
 * ✍️ &nbsp;Create your own songs with simple synthax.
-* ✅ &nbsp;Full system bypass using DirectInput key emulation.
-* 🚀 &nbsp;Extremely lightweight and ultra-performant software (only 37kb).
+* ✅ &nbsp;Full bypass using DirectInput MIDI key emulation.
+* 🚀 &nbsp;Extremely lightweight and ultra-performant software.
 
 
 # How to Install
