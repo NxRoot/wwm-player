@@ -1,5 +1,6 @@
 # Where Winds Meet - Keystroke Player
-Simple keystroke emulation player for Where Winds Meet.
+Simple keystroke emulation player for Where Winds Meet. 
+<p>This software reads multiple txt files with keystroke sequences in order to replay later.</p>
 
 > ⚠️ **WARNING: Use at Your Own Risk**
 > I'm unsure if you can get banned, since I haven't been until now.
@@ -12,7 +13,6 @@ https://github.com/user-attachments/assets/f15f27c5-8565-43d1-8cd5-73f351e13a28
 |---|---|
 | <img width="1920" height="1080" alt="preview_img1" src="https://github.com/user-attachments/assets/394de275-96db-4b8d-afc3-bbe464b33b8b" /> | <img width="1920" height="1080" alt="preview_img2" src="https://github.com/user-attachments/assets/09cac1ba-a23d-4138-b97d-2d0849d8e31c" /> |
 |Simple|SHIFT and CTRL support|
-
 
 # How to Install
 
