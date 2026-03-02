@@ -1,5 +1,5 @@
 # Where Winds Meet - Keystroke Player
-Simple keystroke emulation for Where Winds Meet. 
+Direct input keystroke emulator for Where Winds Meet. 
 <p>This software reads multiple txt files with keystroke sequences in order to replay later.</p>
 
 > ⚠️ **WARNING: Use at Your Own Risk**
