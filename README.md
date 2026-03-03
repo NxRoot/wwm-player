@@ -58,7 +58,10 @@ Example (36 Keys)
 500,CTRL+m
 ```
 
+# Community Songs List
+You can share your best songs with everyone by posting in our discussions section
 
+https://github.com/NxRoot/wwm-player/discussions
 
 ## &nbsp;
 ⭐ If you find this useful!
