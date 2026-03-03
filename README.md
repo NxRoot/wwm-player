@@ -59,7 +59,7 @@ Example (36 Keys)
 ```
 
 # Community Songs List
-You can share your best songs with everyone by posting in our discussions section
+Share your best songs with everyone by posting in our discussions section
 
 https://github.com/NxRoot/wwm-player/discussions
 
